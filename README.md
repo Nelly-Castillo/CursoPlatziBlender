@@ -1,1 +1,1 @@
-# CursoPlatziBlender
+# Curso de Platzi Blender
